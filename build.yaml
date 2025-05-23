@@ -14,7 +14,7 @@
 ---
 include:
   - board: nice_nano_v2
-    shield: horizon
+    shield: apollo32
   - board: nice_nano_v2
     shield: morizon
   - board: nice_nano_v2
