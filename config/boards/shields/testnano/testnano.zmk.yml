@@ -3,6 +3,7 @@ id: testnano
 name: Testnano
 type: shield
 url: https://github.com/onikubimi/test-zmk-config
-requires: [pro_micro]
+requires:
+  - pro_micro
 features:
   - keys
