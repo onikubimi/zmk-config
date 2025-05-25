@@ -1,0 +1,6 @@
+if SHIELD_TESTNANO
+
+config ZMK_KEYBOARD_NAME
+    default "testnano"
+
+endif
