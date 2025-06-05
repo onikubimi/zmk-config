@@ -1,3 +1,2 @@
-# flanck-zmk-config
 
 てすとだよ
