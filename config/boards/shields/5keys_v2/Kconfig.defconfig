@@ -1,0 +1,6 @@
+if SHIELD_TESTNANO
+
+config ZMK_KEYBOARD_NAME
+    default "5keys_v2"
+
+endif
