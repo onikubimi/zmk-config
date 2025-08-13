@@ -1,4 +1,4 @@
 ---
 include:
   - board: nice_nano_v2
-    shield: testnano
+    shield: 5keys_v2
