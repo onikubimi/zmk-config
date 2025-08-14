@@ -21,8 +21,8 @@
             // |  W  |  R  |
 
         	bindings = <
-            &kp q &kp e
-            &kp w &kp r
+            &kp Q &kp E
+            &kp W &kp R
             >;
         };
 
