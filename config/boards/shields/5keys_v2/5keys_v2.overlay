@@ -14,8 +14,8 @@
 
         col-gpios
                = <&gpio1 6 GPIO_ACTIVE_HIGH> // Col_0 106/D9 
-               = <&gpio1 4 GPIO_ACTIVE_HIGH> // Col_1 104/D8
-               = <&gpio0 11 GPIO_ACTIVE_HIGH> // Col_2 011/D7
+               , <&gpio1 4 GPIO_ACTIVE_HIGH> // Col_1 104/D8
+               , <&gpio0 11 GPIO_ACTIVE_HIGH> // Col_2 011/D7
                , <&gpio1 0 GPIO_ACTIVE_HIGH> // Col_3 100/D6
                ;
 
