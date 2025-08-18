@@ -7,30 +7,18 @@
         compatible = "zmk,keymap";
 
         default_layer {
-            // |  1  |  2  |  3  |  4  |
-            // |  5  |  6  |  7  |  8  |
-            // |  Q  |  W  |  E  |  R  |
-            // |  A  |  S  |  D  |  F  |
-
         	bindings = <
-            &kp N1 &kp N2
-            &kp Q &kp W
-//            &kp Q  &kp W  &kp E  &kp R
-//            &kp A  &kp S  &kp D  &kp F
+                &kp N1 &kp N2
+                &kp Q &kp W
             >;
         };
 
         layer2 {
-            // |  1  |  2  |  3  |  4  |
-            // |  5  |  6  |  7  |  8  |
-            // |  Q  |  W  |  E  |  R  |
-            // |  A  |  S  |  D  |  F  |
-
         	bindings = <
-            &kp N1 &kp N2 &kp N3 &kp N4
-            &kp N5 &kp N6 &kp N7 &kp N8
-            &kp Q  &kp W  &kp E  &kp R
-            &kp A  &kp S  &kp D  &kp F
+                &kp N1 &kp N2 &kp N3 &kp N4
+                &kp N5 &kp N6 &kp N7 &kp N8
+                &kp Q  &kp W  &kp E  &kp R
+                &kp A  &kp S  &kp D  &kp F
             >;
         };
 
